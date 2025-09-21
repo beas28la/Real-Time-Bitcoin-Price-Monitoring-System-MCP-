@@ -2,6 +2,8 @@
 
 A comprehensive Bitcoin monitoring system that combines real-time data analysis, automated alerts, and interactive visualizations through the Anthropic MCP framework. This project is containerized for easy deployment and includes both server and client components.
 
+[Demo](https://drive.google.com/file/d/13MGaKpZ_MQxV6rmPtLMW4o8okm9puCyt/view?usp=sharing)
+
 ## Project Structure
 
 The project consists of several key components, each with its own detailed documentation:
